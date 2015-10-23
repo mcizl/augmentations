@@ -7,7 +7,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'ruby-augmentations'
+gem 'ruby-augmentations', require: 'augmentations'
 ```
 
 And then execute:
@@ -17,6 +17,12 @@ And then execute:
 Or install it yourself as:
 
     $ gem install ruby-augmentations
+
+And put a require statement into your code:
+
+```ruby
+require 'augmentations
+```
 
 # Usage
 
