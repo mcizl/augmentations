@@ -21,7 +21,7 @@ Or install it yourself as:
 And put a require statement into your code:
 
 ```ruby
-require 'augmentations
+require 'augmentations'
 ```
 
 # Usage
